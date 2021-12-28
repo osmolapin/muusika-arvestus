@@ -2,14 +2,14 @@ import sys
 
 def isFile():
     try:
-        file = open("TOKEN.txt", "r")
+        file = open("path.txt", "r")
         if file == "Siia 1. reale kleepida kausta path (Selle teksti asemele)":
             print("Puudub muusika failide path. Loodi .txt fail nimega 'path', lisage sinna kausta path, kus on muusika failid")
             sys.exit()
         return file.read()
     except:
         print("Puudub muusika failide path. Loodi .txt fail nimega 'path', lisage sinna kausta path, kus on muusika failid")
-        file = open("TOKEN.txt", "w")
+        file = open("path.txt", "w")
         file.write("Siia 1. reale kleepida kausta path (Selle teksti asemele)")
         file.close()
         sys.exit()
