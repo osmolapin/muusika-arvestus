@@ -1,5 +1,5 @@
 # muusika-arvestus
-## 10. klassi muusika arvestuse õppimiseks programm
+## 10. klassi muusika kuulamise arvestuse õppimiseks programm
 - Kui piisavalt soovi on võin teha GUI (vaevalt, et keegi isegi kasutab)
 - Ise sain arvestusest läbi tänu sellele programmile
 
