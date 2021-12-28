@@ -1,5 +1,7 @@
 # muusika-arvestus
 ## 10. klassi muusika arvestuse õppimiseks programm
+- Kui piisavalt soovi on võin teha GUI (vaevalt, et keegi isegi kasutab)
+- Ise sain arvestusest läbi tänu sellele programmile
 
 ## Käivitamine .exe failist
 - Fail on 20mb, ei tea mis teema sellega on (tegin pyinstalleriga)
