@@ -1,6 +1,12 @@
-# muusika-arvestus
-## 10. klassi muusika kuulamise arvestuse õppimiseks programm
-- Kui piisavalt soovi on võin teha GUI (vaevalt, et keegi isegi kasutab)
+# 10. klassi muusika kuulamise arvestuse õppimiseks programm
+![License](https://img.shields.io/github/license/osmolapin/muusika-arvestus.svg) ![Profile View Counter](https://komarev.com/ghpvc/?username=osmolapin)
+
+Programm mängib suvalist muusika faili (mille võtab pathist, mille kasutaja on andnud) 
+suvalisest kohast ning seejärel küsib kasutajalt selle nime ning vaatab kui lähedal oli kasutaja,
+kui kasutaja oli lähedal salvestab programm endale mällu selle (mitte faili) ning enam seda ei esita,
+nii kaua kuni programm pole kinni pandud. Programm käib niimoodi kõik failid läbi
+
+- Kui piisavalt soovi on võin teha GUI (vaevalt, et keegi isegi kasutab) 
 - Ise sain arvestusest läbi tänu sellele programmile
 
 ## Käivitamine .exe failist
@@ -15,6 +21,7 @@
 
 ## Käivitamine koodist
 - Vaja installida Pyhton versioon > 3.0
-- Vlc moodul (cmdsse: "pip install python-vlc")
+- Vlc moodul
+> pip install python-vlc
 - Kõik pyhton failid peavad olema samas kaustas
 
