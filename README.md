@@ -2,6 +2,8 @@
 ## 10. klassi muusika arvestuse õppimiseks programm
 
 ## Käivitamine .exe failist
+- Fail on 20mb, ei tea mis teema sellega on (tegin pyinstalleriga)
+
 1. Pane käima .exe fail
 2. Samasse kausta tekib .txt fail
 3. Kleebi esimesele reale .txt failis enda muusika failide kausta path (kaustas peavad olema ainult muusika failid, mp3 töötab, teisi ei tea)
